@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush-verma-4a3291224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-verma-4a3291224" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ayush1013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayush1013" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushav1310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushav1310" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-verma-4a3291224" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="ayush-verma-4a3291224" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ayush1013" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=MBFOrgc9MiP6&format=png" alt="ayush1013" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayushav1310" target="blank"><img align="center" src="https://img.icons8.com/?size=80&id=wDGo581Ea5Nf&format=png" alt="ayushav1310" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

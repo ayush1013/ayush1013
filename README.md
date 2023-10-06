@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayush98277@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wmufWjrLaIsUqdE_0nBDweoFlVvtq_as/view](https://drive.google.com/file/d/1wmufWjrLaIsUqdE_0nBDweoFlVvtq_as/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wmufWjrLaIsUqdE_0nBDweoFlVvtq_as/view)
 
 - ⚡ Fun fact **I'm just a naturally friendly person who loves to make new friends and spread good vibes wherever I go! 😄"**
 
